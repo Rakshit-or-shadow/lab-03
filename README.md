@@ -2,13 +2,13 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Rakshit Singh`
+- **CCID:** `1824303`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
-
+Lab-3 slides 
+in built gemini in android studio used for syntax correction in Line 207 of "onUpdateCity = { _, _ -> }" 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
