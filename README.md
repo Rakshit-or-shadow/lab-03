@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `<Rakshit Singh`
-- **CCID:** `1824303`
+- **CCID:** `rakshit3`
 
 ## References and Resources
 
